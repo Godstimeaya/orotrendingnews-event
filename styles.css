@@ -82,7 +82,7 @@ header > .wrapper {
   }
 }
 
-@-webkit-keyframes blink {
+@-webkit-keyframes blinker {
   from{opacity: 1.0;}
   to {opacity: 0.0;}
 }
@@ -112,9 +112,6 @@ header > .wrapper {
   100%{width: 340px;}
   150%{width: 200px;}
 }
-
-
-
 
 /* The popup form - hidden by default */
 .form-popup {
