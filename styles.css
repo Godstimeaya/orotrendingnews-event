@@ -82,7 +82,7 @@ header > .wrapper {
   }
 }
 
-@-webkit-keyframes blinker {
+@-webkit-keyframes blink {
   from{opacity: 1.0;}
   to {opacity: 0.0;}
 }
