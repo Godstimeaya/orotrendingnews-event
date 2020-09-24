@@ -115,15 +115,15 @@ header > .wrapper {
 }
 @media screen and (max-width:800px){
 .blink {
-
+text-decoration:blink;
 }
 @media screen and (max-width:800px){
 .blink {
-
+text-decoration:blink;
 }
 @media screen and (min-width:800px){
 .blink {
-
+text-decoration:blink;
 }
 }
 
