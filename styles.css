@@ -35,6 +35,19 @@ img {
   width: 100%;
   height: auto;
 }
+@media screen and (max-width:800px){
+.blink{
+color:red;
+}
+@media screen and (max-width:800px){
+.blink{
+width:32px;
+}
+@media screen and (min-width:800px){
+.blink{
+top:10px;
+}
+}
 
 body::before { 
 	content: '';
@@ -86,6 +99,7 @@ header > .wrapper {
   from{opacity: 1.0;}
   to {opacity: 0.0;}
 }
+
   .blink{
     text-decoration: blink;
     -webkit-animation-name: blinker;
