@@ -35,19 +35,6 @@ img {
   width: 100%;
   height: auto;
 }
-@media screen and (max-width:800px){
-.blink{
-
-}
-@media screen and (max-width:800px){
-.blink{
-
-}
-@media screen and (min-width:800px){
-.blink{
-
-}
-}
 
 body::before { 
 	content: '';
